@@ -18,7 +18,7 @@ body {
   text-align: center;
   margin-top: 50px;
 }
-li {
+.menu li {
   padding-right: 40px;
   display: inline;
 }
